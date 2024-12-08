@@ -15,7 +15,7 @@ const CallToAction = () => {
             and start shortening, customizing, and tracking your URLs!
           </p>
           <a
-            href="#"
+            href="#signup"
             className="bg-[#ee6123] text-[#ffffff] px-8 py-4 rounded-xl text-xl font-semibold hover:bg-[#4b7d9b] transition duration-300"
           >
             Start Now
