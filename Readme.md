@@ -114,4 +114,3 @@ Redirect to the original URL for the given shortened URL.
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [nanoid](https://github.com/ai/nanoid)
-```
